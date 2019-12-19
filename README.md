@@ -1,1 +1,1 @@
-# gosrc
+# gosrc - example go source 
