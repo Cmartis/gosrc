@@ -1,0 +1,7 @@
+this line is a not a duplicate
+this line is a duplicate three times
+this line is a duplicate three times
+this is not a dupliate
+this line is a duplicate three times
+this is a double
+this is a double
